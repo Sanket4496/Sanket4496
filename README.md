@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Football, Play Cricket.
 
-[![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanket4496&show_icons=true&theme=radical)](https://github.com/Sanket4496/)
+[![Sanket's GitHub stats](https://github-readme-stats-murex-nine-80.vercel.app/api?username=Sanket4496&show_icons=true&theme=neon)](https://github.com/Sanket4496/)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sanket4496)](https://github.com/Sanket4496/)
+<!--[![Harlok's WakaTime stats](https://github-readme-stats-murex-nine-80.vercel.app/api/wakatime?username=Sanket4496)](https://github.com/Sanket4496/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket4496&layout=pie)](https://github.com/Sanket4496/)
+[![Top Langs](https://github-readme-stats-murex-nine-80.vercel.app/api/top-langs/?username=Sanket4496&layout=donut-vertical)](https://github.com/Sanket4496/)
