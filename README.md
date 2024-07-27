@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a Research Scholar @ NIT, Rourkela
+- 🌱 I’m currently learning Machine Learning, Deep Learning, NLP
+- 👯 I’m looking to collaborate on anything realted to AI, ML, DL, NLP
+- 📫 How to reach me: panda.sanket497@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Love Football, Play Cricket.
+
+[![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanket4496)](https://github.com/anuraghazra/github-readme-stats)
